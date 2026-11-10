@@ -1,0 +1,21 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Hasil pengolahan gambar (dibuat otomatis oleh tasks.py)
+output/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+*.pid
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
