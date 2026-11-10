@@ -1,0 +1,1 @@
+# celery-image-processing
